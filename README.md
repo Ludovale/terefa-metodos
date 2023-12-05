@@ -1,2 +1,2 @@
 # terefa-metodos
-tarefa de metodos doigital college
+tarefa de metodos digital college
